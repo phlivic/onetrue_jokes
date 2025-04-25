@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 search_keyword = "twistzz"
-onetrue_lrportal = "https://www.douyu.com/topic/iemktwz2025?rid=6979222"
+onetrue_lrportal = "https://www.douyu.com/topic/IEMMBR?rid=6979222"
 index = 1   # 循环次数
 
 def main():
